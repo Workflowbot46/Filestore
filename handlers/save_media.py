@@ -49,7 +49,7 @@ async def save_batch_media_in_channel(bot: Client, editable: Message, message_id
                 InlineKeyboardButton("Delete Batch", callback_data="closeMessage")
             ]])
         )
-        share_link = f"https://telegram.me/{Config.BOT_USERNAME}?start=JAsuran_{str_to_b64(str(SaveMessage.id))}"
+        share_link = f"https://telegram.me/{Config.BOT_USERNAME}?start=TamilaRockers_{str_to_b64(str(SaveMessage.id))}"
         await editable.edit(
             f"**Link:** {share_link}",
             reply_markup=InlineKeyboardMarkup(
@@ -91,8 +91,8 @@ async def save_media_in_channel(bot: Client, editable: Message, message: Message
             f"**Link:** {share_link}",
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton("Open Link", url=share_link)],
-                 [InlineKeyboardButton("Bots Channel", url="https://telegram.me/JAsuranBots"),
-                  InlineKeyboardButton("Support Group", url="https://telegram.me/AsuranMoviefinder")]]
+                 [InlineKeyboardButton("Bots Channel", url="https://telegram.me/TamilaRockers"),
+                  InlineKeyboardButton("Support Group", url="https://telegram.me/TR_Discussion")]]
             ),
             disable_web_page_preview=True
         )
