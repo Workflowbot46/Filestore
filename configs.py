@@ -31,16 +31,16 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Render](https://render.com)
 
-🧑🏻‍💻 **Editor:** @JAsuran2p0
+🧑🏻‍💻 **Editor:** @TamilnaduCM
 
-👥 **Support Group:** [Bots Channel](https://t.me/jasuranbots)
+👥 **Support Group:** [Bots Channel](https://t.me/TR_Discussion)
 
-👥 **Movie Search Group:** [Bots Channel](https://t.me/Asuranmoviefinder1)
+👥 **Movie Search Group:** [Bots Channel](https://t.me/TamilaRockers)
 
-📢 **Updates Channel:** [JAsuran Serials](https://t.me/JAsuranserials)
+📢 **Updates Channel:** [JAsuran Serials](https://t.me/Tamizhi_Official)
 """
 	ABOUT_DEV_TEXT = f"""
-🧑🏻‍💻 **Editor:** @JAsuran2p0
+🧑🏻‍💻 **Editor:** @TamilnaduCM
 
 Editor is Noob. Just Learning from Official Docs.
 """
